@@ -1,3 +1,7 @@
+Build Status:
+
+[![Build Status](https://travis-ci.com/VlasovVO/DevOps_role_db.svg?branch=master)](https://travis-ci.com/VlasovVO/DevOps_role_db)
+
 Role Name
 =========
 
